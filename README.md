@@ -3,7 +3,7 @@
 Collection of SQL questions from 
 - LeetCode
 - StrataQuest
-- Ace the data science Intervie Book
+- Ace the data science Interview Book
 
 ## What does the folders include?
 The folders are divided with company name and  each folder contains:
